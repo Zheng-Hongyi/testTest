@@ -17,6 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     NSLog(@"Hello world");
+    NSLog(@"MBd");
     return YES;
 }
 
